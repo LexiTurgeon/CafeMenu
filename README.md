@@ -1,2 +1,3 @@
 # CafeMenu
-Project to build a café menu with HTML &amp; CSS. Using this as a learning project to learn the language.
+
+CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
